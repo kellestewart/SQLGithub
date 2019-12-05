@@ -1,2 +1,2 @@
 # SQLGithub
-How to link SQL with Github
+Linking SQL to GitHub
